@@ -1,0 +1,11 @@
+Halo, salam kenal. Nama saya Ridhwan dari Semarang
+
+Resolusi saya :
+  - Membuat Website menggunakan Javascript
+  - Belajar framework PHP 
+    * Laravel
+    * CodeIgniter 
+  - Belajar framework Go-lang
+    * GoFiber
+    * Gorilla Mux
+    * Echo Framework
